@@ -52,8 +52,4 @@ This project gave me hands-on experience writing SQL queries for real-world data
 ## 👨‍💻 Created By
 **Prakash Samera**  
 📧 prakashsamera254@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link)
-
----
-
-
+🔗 [https://www.linkedin.com/in/prakash4545]
